@@ -1,0 +1,8 @@
+a           =(1)
+i           =(2)
+u           =(3)
+out         =(4)
+in          =(5)
+up          =(6)
+cooperate   =(7)
+independent =(8)

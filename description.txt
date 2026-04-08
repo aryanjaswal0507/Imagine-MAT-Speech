@@ -1,0 +1,1 @@
+A high-performance Signal Classification system (EEG/sEMG) for mental activity task recognition. Features advanced feature engineering and 8-class classification (a, i, u, in, out, up, etc.).

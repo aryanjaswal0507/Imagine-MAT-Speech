@@ -1,0 +1,4 @@
+Window Size.  Step Size.    Overlap %.    Segments in 5 sec
+   2 sec.      1 sec.          50%              4
+   3 sec.      1 sec.          66.7%            3
+   
